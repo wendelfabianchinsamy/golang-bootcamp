@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/wendelfabianchinsamy/golang-bootcamp/greet"
+	greet "github.com/wendelfabianchinsamy/golang-bootcamp"
 )
 
 func main() {
